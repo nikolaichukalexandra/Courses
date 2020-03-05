@@ -1,0 +1,6 @@
+.idea/
+.out/
+*.iml
+infodbCreating.sql
+# Project exclude paths
+/out/
